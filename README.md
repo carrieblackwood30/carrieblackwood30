@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Meirzhan.
+- 👀 I’m interested in Frontend and Music.
+- 💞️ I’m looking to collaborate on game project.
+- 📫 How to reach me t.me/SoyProgrammador
